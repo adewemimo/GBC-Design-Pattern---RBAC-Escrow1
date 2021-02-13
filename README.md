@@ -1,3 +1,3 @@
 # GBC-Design-Pattern---RBAC-Escrow1
-RBAC Escrow Contract with Openzeppelin import from github.
-Contract was wriiten in Remix IDE.
+RBAC Escrow Contract with Openzeppelin imported from its githu repo.
+Contract was written in Remix IDE.
